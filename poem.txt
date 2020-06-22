@@ -1,3 +1,8 @@
 this is a haiku
+<<<<<<< HEAD
+it has seven syllables
+one ring to rule all
+=======
 this is seven sylabuls 
 then five at the end
+>>>>>>> 2a40789d2b7d7522e92b97e9692a608b259ef52e
